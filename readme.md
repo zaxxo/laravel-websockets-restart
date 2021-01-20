@@ -1,3 +1,5 @@
+## This package is abandoned and no longer maintained. The Laravel WebSocket package has its own restart command now.
+
 # Laravel WebSockets Restart
 
 This adds a console command to restart the [Laravel WebSocket](https://github.com/beyondcode/laravel-websockets) server.
